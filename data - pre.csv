@@ -1,0 +1,213 @@
+Year,Name,Owner
+1804,Jacquard machine,Joseph Marie Jacquard
+1879,Begriffsschrift,Gottlob Frege
+1946,ENIAC Short Code,Richard Clippinger and John von Neumann after Alan Turing
+1948,Plankalkül (year of concept publication),Konrad Zuse
+1949,EDSAC Initial Orders,David Wheeler
+1949,Short Code (originally known as Brief Code),John Mauchly and William F. Schmitt
+1950,Short Code (for UNIVAC I),William F. Schmitt
+1951,Superplan,Heinz Rutishauser
+1951,ALGAE,Edward A. Voorhees and Karl Balke
+1951,Intermediate Programming Language,Arthur Burks
+1951,Boehm unnamed coding system,Corrado Böhm
+1951,Klammerausdrücke,Konrad Zuse
+1951,Stanislaus (Notation),Fritz Bauer
+1951,Sort Merge Generator,Betty Holberton
+1952,Short Code (for UNIVAC II),"Albert B. Tonik,[2] J. R. Logan"
+1952,A-0,Grace Hopper
+1952,Glennie Autocode,Alick Glennie after Alan Turing
+1952,Operator programming,Alexey Andreevich Lyapunov with the participation Kateryna Yushchenko
+1952,Editing Generator,Milly Koss
+1952,COMPOOL,RAND/SDC
+1953,Speedcoding,John W. Backus
+1953,READ/PRINT,"Don Harroff, James Fishman, George Ryckman"
+1954,Laning and Zierler system,"Laning, Zierler, Adams at MIT Project Whirlwind"
+1954,Mark I Autocode,Tony Brooker
+1954,ARITH-MATIC,Team led by Grace Hopper at UNIVAC
+1954,MATH-MATIC,Team led by Charles Katz
+1954,MATRIX MATH,H G Kahrimanian
+1954,IPL I (concept),"Allen Newell, Cliff Shaw, Herbert A. Simon"
+1955,Address programming language,Kateryna Yushchenko
+1955,FLOW-MATIC,Team led by Grace Hopper at UNIVAC
+1955,BACAIC,M. Grems and R. Porter
+1955,PACT I,SHARE
+1955,Freiburger Code[3][4],University of Freiburg
+1955,PRINT,IBM
+1958,IPL II (implementation),"Allen Newell, Cliff Shaw, Herbert A. Simon"
+1957,COMTRAN,Bob Bemer
+1957,GEORGE,Charles Leonard Hamblin
+1957,FORTRAN I (implementation),John W. Backus at IBM
+1957,COMIT (concept),Victor Yngve
+1958,FORTRAN II,Team led by John W. Backus at IBM
+1958,ALGOL 58 (IAL),ACM/GAMM
+1958,IPL V,"Allen Newell, Cliff Shaw, Herbert A. Simon"
+1959,APT,Douglas T. Ross
+1959,FACT,"Fletcher R. Jones, Roy Nutt, Robert L. Patrick"
+1959,COBOL (concept),The CODASYL Committee
+1959,JOVIAL,Jules Schwartz at SDC
+1959,LISP (implementation),Steve Russell
+1959,MAD – Michigan Algorithm Decoder,"Bruce Arden, Bernard Galler, and Robert M. Graham"
+1959,TRAC (concept),Calvin Mooers
+1961,GPSS,"Geoffrey Gordon, IBM"
+1962,FORTRAN IV,IBM
+1962,APL (concept),Kenneth E. Iverson
+1962,Simula (concept),Ole-Johan Dahl (mostly)
+1962,SNOBOL,"Ralph Griswold, et al."
+1963,Combined Programming Language (CPL) (concept),"Barron, Christopher Strachey, et al."
+1963,SNOBOL3,"Griswold, et al."
+1963,ALGOL 68 (concept),"Adriaan van Wijngaarden, et al."
+1963,JOSS I,"Cliff Shaw, RAND"
+1964,MIMIC,"H. E. Petersen, et al."
+1964,COWSEL,"Rod Burstall, Robin Popplestone"
+1964,PL/I (concept),IBM
+1964,Basic Assembly Language,IBM
+1964,BASIC,"John George Kemeny, Thomas Eugene Kurtz at Dartmouth College"
+1964,IBM RPG,IBM
+1964,Mark-IV,Informatics
+1964,Speakeasy-2,Stanley Cohen at Argonne National Laboratory
+1964,TRAC (implementation),Calvin Mooers
+1964,P′′,Corrado Böhm
+1964,IITRAN,
+1965,RPG II,IBM
+1965,MAD/I (concept),University of Michigan
+1965,TELCOMP,BBN
+1965,Atlas Autocode,"Tony Brooker, Derrick Morris at Manchester University"
+1965,PL360 (concept),Niklaus Wirth
+1966,JOSS II,"Chuck Baker, RAND"
+1966,ALGOL W,"Niklaus Wirth, C. A. R. Hoare"
+1966,FORTRAN 66,John Backus and his team
+1966,ISWIM (concept),Peter J. Landin
+1966,CORAL 66,"I. F. Currie, M. Griffiths"
+1966,APL (implementation)[5],Kenneth E. Iverson
+1967,BCPL,Martin Richards
+1967,MUMPS,Massachusetts General Hospital
+1967,Simula 67 (implementation),"Ole-Johan Dahl, Bjørn Myhrhaug, Kristen Nygaard at Norsk Regnesentral"
+1967,Interlisp,D.G. Bobrow and D.L. Murphy
+1967,EXAPT,"Herwart Opitz, Wilhelm Simon, Günter Spur, and Gottfried Stute at RWTH Aachen University and TU Berlin"
+1967,SNOBOL4,"Ralph Griswold, et al."
+1967,XPL,"William M. McKeeman, et al. at University of California, Santa Cruz
+J. J. Horning, et al. at Stanford University"
+1968,ALGOL 68 (UNESCO/IFIP standard),"Adriaan van Wijngaarden, Barry J. Mailloux, John E. L. Peck and Cornelis H. A. Koster, et al."
+1968,POP-1,"Rod Burstall, Robin Popplestone"
+1968,DIBOL-8,DEC
+1968,Forth (concept),Moore
+1968,Logo,"Wally Feurzeig, Seymour Papert, Cynthia Solomon"
+1968,MAPPER,Unisys
+1968,REFAL (implementation),Valentin Turchin
+1968,TTM (implementation),"Steven Caine and E. Kent Gordon, California Institute of Technology"
+1968,PILOT,"John Amsden Starkweather, University of California, San Francisco"
+1968,PL360 (implementation),Niklaus Wirth
+1968,PL/S (as Basic Systems Language),IBM
+1969,PL/I (implementation),IBM
+1969,B,"Ken Thompson, with contributions from Dennis Ritchie"
+1969,Polymorphic Programming Language (PPL),Thomas A. Standish at Harvard University
+1969,SETL,Jack Schwartz at Courant Institute of Mathematical Sciences
+1969,TUTOR,Paul Tenczar & University of Illinois at Urbana–Champaign
+1969,Edinburgh IMP,Edinburgh University
+1970,Pascal,"Niklaus Wirth, Kathleen Jensen"
+1970,BLISS,"Wulf, Russell, Habermann at Carnegie Mellon University"
+1971,KRL,"Daniel G. Bobrow at Xerox PARC, Terry Winograd at Stanford University"
+1972,C,Dennis Ritchie
+1972,INTERCAL,"Don Woods, James M. Lyon"
+1972,Prolog,Alain Colmerauer
+1972,Structured Query language (SQL),IBM
+1972,SASL,David Turner at University of St Andrews
+1973,COMAL,"Børge Christensen, Benedict Løfstedt"
+1973,ML,Robin Milner
+1973,LIS,Jean Ichbiah et al. at CII Honeywell Bull
+1973,Speakeasy-3,"Stanley Cohen, Steven Pieper at Argonne National Laboratory"
+1974,CLU,Barbara Liskov
+1974,GRASS,Thomas A. DeFanti
+1974,BASIC FOUR,MAI BASIC Four Inc.
+1974,PROSE modeling language,CDC 6600 Cybernet Services
+1974,sed,Lee E. McMahon of Bell Labs
+1975,ABC,Leo Geurts and Lambert Meertens
+1975,PROSE modeling language Time-Sharing Version,CDC 6400 Cybernet KRONOS Services
+1975,Scheme,"Gerald Jay Sussman, Guy L. Steele Jr."
+1975,Altair BASIC,"Bill Gates, Paul Allen"
+1975,Modula,Niklaus Wirth
+1976,Smalltalk-76,Xerox PARC
+1976,Mesa,Xerox PARC
+1976,Ratfor,Brian Kernighan
+1976,S,John Chambers at Bell Labs
+1976,SAS,SAS Institute
+1976,Integer BASIC,Steve Wozniak
+1977,FP,John Backus
+1977,Bourne Shell (sh),Stephen R. Bourne
+1977,Commodore BASIC,Jack Tramiel
+1977,IDL,David Stern of Research Systems Inc
+1977,Standard MUMPS,
+1977,Icon (concept),Ralph Griswold
+1977,Euclid,"Butler Lampson at Xerox PARC, Ric Holt and James Cordy at University of Toronto"
+1977,Applesoft BASIC,Marc McDonald and Ric Weiland
+1978,RAPT,Pat Ambler and Robin Popplestone
+1978,C shell,Bill Joy
+1978,RPG III,IBM
+1978,HAL/S,designed by Intermetrics for NASA
+1978,Applesoft II BASIC,Marc McDonald and Ric Weiland
+1978,MATLAB,Cleve Moler at the University of New Mexico
+1978,SMALL,Nevil Brownlee at the University of Auckland
+1978,VisiCalc,"Dan Bricklin, Bob Frankston marketed by VisiCorp"
+1979,TI BASIC (TI 99/4A),Texas Instruments
+1979,Modula-2,Niklaus Wirth
+1979,REXX,Mike Cowlishaw at IBM
+1979,AWK,"Alfred Aho, Peter J. Weinberger, Brian Kernighan"
+1979,Icon (implementation),Ralph Griswold
+1979,Vulcan dBase-II,Wayne Ratliff
+1980,Applesoft III,Apple Computer
+1980,Apple III Microsoft BASIC,Microsoft
+1980,Smalltalk-80,Adele Goldberg at Xerox PARC
+1982,Speakeasy-IV,"Stanley Cohen, et al. at Speakeasy Computing Corporation"
+1982,Draco,Chris Gray
+1982,PostScript,Warnock
+1982,Turing,"Ric Holt and James Cordy, at University of Toronto"
+1983,GW-BASIC,Microsoft
+1983,Turbo Pascal,Hejlsberg at Borland
+1983,True BASIC,"John George Kemeny, Thomas Eugene Kurtz at Dartmouth College"
+1983,occam,David May
+1983,ABAP,SAP AG
+1983,KornShell (ksh),David Korn
+1983,Clascal,Apple Computer
+1984,CLIPPER,Nantucket
+1984,Common Lisp,"Guy L. Steele, Jr. and many others"
+1984,Coq,INRIA
+1984,RPL,Hewlett-Packard
+1984,Standard ML,
+1984,Redcode,Alexander Dewdney and D.G. Jones
+1984,OPL,Psion
+1985,PARADOX,Borland
+1985,QuickBASIC,Microsoft
+1986,Clarion,Bruce Barrington
+1986,CorVision,Cortex
+1986,Eiffel,Bertrand Meyer
+1986,GFA BASIC,Frank Ostrowski
+1986,Informix-4GL,Informix
+1986,LabVIEW,National Instruments
+1986,Miranda,David Turner at University of Kent
+1986,Object Pascal,Apple Computer
+1986,PROMAL,
+1986,Erlang,Joe Armstrong and others in Ericsson
+1987,Ada ISO 8652:1987,ANSI/MIL-STD-1815A unchanged
+1987,Self (concept),Sun Microsystems Inc.
+1987,occam 2,David May and INMOS
+1987,HyperTalk,Apple Computer
+1987,Clean,Software Technology Research Group of Radboud University Nijmegen
+1987,Perl,Larry Wall
+1987,Oberon,Niklaus Wirth
+1987,Turbo Basic,Robert 'Bob' Zale
+1988,Mathematica (Wolfram Language),Wolfram Research
+1988,Octave,
+1988,Tcl,John Ousterhout
+1988,STOS BASIC,François Lionet and Constantin Sotiropoulos
+1988,Actor,"Charles Duff, the Whitewater Group"
+1988,Object REXX,Simon C. Nash
+1988,SPARK,Bernard A. Carré
+1988,A+,Arthur Whitney
+1988,Hamilton C shell,Nicole Hamilton
+1989,Turbo Pascal OOP,Anders Hejlsberg at Borland
+1989,Modula-3,"Cardeli, et al. DEC and Olivetti"
+1989,PowerBASIC,Robert 'Bob' Zale
+1989,VisSim,"Peter Darnell, Visual Solutions"
+1989,LPC,Lars Pensjö
+1989,Bash,Brian Fox
+1989,Magik,"Arthur Chance, of Smallworld Systems Ltd"

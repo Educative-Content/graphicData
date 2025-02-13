@@ -1,0 +1,38 @@
+Year,Name,Owner
+2010,Rust,"Graydon Hoare, Mozilla"
+2011,C11,C11 ISO/IEC 9899:2011
+2011,Ceylon,"Gavin King, Red Hat"
+2011,Dart,Google
+2011,C++11,C++ ISO/IEC 14882:2011
+2011,Kotlin,JetBrains
+2011,Red,Nenad Rakočević
+2011,Opa,MLstate
+2012,Elixir,José Valim
+2012,Elm,Evan Czaplicki
+2012,TypeScript,"Anders Hejlsberg, Microsoft"
+2012,Julia,"Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman, MIT"
+2012,P,"Vivek Gupta, Ethan Jackson, Shaz Qadeer, Sriram Rajamani, Microsoft"
+2012,Ada 2012,ARA and Ada Europe (ISO/IEC 8652:2012)
+2013,P4,P4 Language Consortium (P4.org)
+2013,PureScript,Phil Freeman
+2013,Hopscotch,Hopscotch Technologies
+2013,Cuneiform,Jörgen Brandt
+2013,Lean,Microsoft Research
+2013,Hy,Paul Tagliamonte
+2014,Crystal,"Ary Borenszweig, Manas Technology Solutions"
+2014,Hack,Facebook
+2014,Swift,Apple Inc.
+2014,C++14,C++ ISO/IEC 14882:2014
+2014,Solidity,"Gavin Wood, Ethereum"
+2015,Raku,"Larry Wall, The Rakudo Team"
+2015,Zig,Andrew Kelley
+2016,Reason,Jordan Walke
+2016,Ring,Mahmoud Samir Fayed
+2017,C++17,C++ ISO/IEC 14882:2017
+2017,AssemblyScript,The AssemblyScript Project[14]
+2017,Ballerina,"WSO2, Open Source[15]"
+2017,Q#,Microsoft
+2018,C17,ISO/IEC 9899:2018
+2018,Fortran 2018,ISO/IEC JTC1/SC22/WG5 N2150:2018
+2019,Bosque,"Mark Marron, Microsoft"
+2019,V (Vlang),Alexander Medvednikov
