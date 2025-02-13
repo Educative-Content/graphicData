@@ -1,0 +1,73 @@
+Year,Name,Owner
+1990,Sather,Steve Omohundro
+1990,AMOS BASIC,François Lionet and Constantin Sotiropoulos
+1990,AMPL,"Robert Fourer, David Gay and Brian Kernighan at Bell Laboratories"
+1990,Object Oberon,"H Mössenböck, J Templ, R Griesemer"
+1990,J,"Kenneth E. Iverson, Roger Hui at Iverson Software"
+1990,Haskell,
+1990,EuLisp,
+1990,Z shell (zsh),Paul Falstad at Princeton University
+1990,SKILL,T. J. Barnes at Cadence Design Systems
+1991,GNU E,"David J. DeWitt, Michael J. Carey"
+1991,Oberon-2,"Hanspeter Mössenböck, Niklaus Wirth"
+1991,Oz,Gert Smolka and his students
+1991,Q,Albert Gräf
+1991,Python,Guido van Rossum
+1991,Visual Basic,"Alan Cooper, sold to Microsoft"
+1992,Borland Pascal,
+1992,Dylan,Many people at Apple Computer
+1992,S-Lang,John E. Davis
+1993,Self (implementation),Sun Microsystems
+1993,Amiga E,Wouter van Oortmerssen
+1993,Brainfuck,Urban Müller
+1993,LiveCode Transcript,
+1993,AppleScript,Apple Computer
+1993,K,Arthur Whitney
+1993,Lua,"Roberto Ierusalimschy et al. at Tecgraf, PUC-Rio"
+1993,R,Robert Gentleman and Ross Ihaka
+1993,ZPL,Chamberlain et al. at University of Washington
+1993,NewtonScript,Walter Smith
+1993,Euphoria,Robert Craig
+1994,Claire,Yves Caseau
+1994,ANSI Common Lisp,
+1994,RAPID,ABB
+1994,Pike,Fredrik Hübinette et al. at Linköping University
+1994,ANS Forth,"Elizabeth Rather, et al."
+1995,Ada 95,"S. Tucker Taft, et al. at Intermetrics"
+1995,Borland Delphi,Anders Hejlsberg at Borland
+1995,ColdFusion (CFML),Allaire
+1995,Java,James Gosling at Sun Microsystems
+1995,LiveScript,Brendan Eich at Netscape
+1995,Mercury,Zoltan Somogyi at University of Melbourne
+1995,PHP,Rasmus Lerdorf
+1995,Ruby,Yukihiro Matsumoto
+1995,JavaScript,Brendan Eich at Netscape
+1995,Racket,Matthew Flatt at Rice University
+1996,CSS,Håkon Wium Lie and Bert Bos
+1996,Curl,"David Kranz, Steve Ward, Chris Terman at MIT"
+1996,Lasso,Blue World Communications
+1996,NetRexx,Mike Cowlishaw
+1996,OCaml,INRIA
+1996,Perl Data Language (PDL),"Karl Glazebrook, Jarle Brinchmann, Tuomas Lukka, and Christian Soeller"
+1996,Pure Data,Miller Puckette
+1996,VBScript,Microsoft
+1997,Component Pascal,Oberon Microsystems
+1997,E,Mark S. Miller
+1997,Pico,Free University of Brussels
+1997,Squeak,"Alan Kay, et al. at Apple Computer"
+1997,ECMAScript,ECMA TC39-TG1
+1997,F-Script,Philippe Mougin
+1997,ISLISP,ISO Standard ISLISP
+1997,Tea,Jorge Nunes
+1997,REBOL,"Carl Sassenrath, Rebol Technologies"
+1998,Logtalk,Paulo Moura (then at University of Coimbra)
+1998,ActionScript,Gary Grossman
+1998,Standard C++,ANSI/ISO Standard C++
+1998,PureBasic,"Frederic Laboureur, Fantaisie Software"
+1998,UnrealScript,Tim Sweeney at Epic Games
+1998,XSLT (+ XPath),"W3C, James Clark"
+1998,Xojo (REALbasic at the time),"Xojo, Andrew Barry"
+1999,C99,C99 ISO/IEC 9899:1999
+1999,Gambas,Benoît Minisini
+1999,Game Maker Language (GML),Mark Overmars
+1999,Harbour,Antonio Linares
