@@ -74,5 +74,5 @@ Time series analysis,Prophet (by Facebook)
 Time series analysis,LSTMs for time series
 Semi-supervised learning,Label propagation
 Semi-supervised learning,Self-training
-Self-supervised learning,"Contrastive learning (e.g., SimCLR, MoCo)"
-Self-supervised learning,"Masked autoencoders (e.g., BERT for NLP, MAE for vision)"
+Self-supervised learning,"Contrastive learning (e.g., SimCLR)"
+Self-supervised learning,"Masked autoencoders (e.g., BERT, MAE)"
