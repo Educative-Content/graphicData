@@ -68,11 +68,11 @@ Recurrent neural networks (RNNs),Long short-term memory (LSTM)
 Recurrent neural networks (RNNs),Gated recurrent units (GRUs)
 Natural language processing (NLP),Word2Vec
 Natural language processing (NLP),GloVe
-Natural language processing (NLP),"Transformer-based models (e.g., BERT, GPT, T5)"
+Natural language processing (NLP),"Transformer-based models"
 Time series analysis,ARIMA (AutoRegressive integrated moving average)
 Time series analysis,Prophet (by Facebook)
 Time series analysis,LSTMs for time series
 Semi-supervised learning,Label propagation
 Semi-supervised learning,Self-training
-Self-supervised learning,"Contrastive learning (e.g., SimCLR)"
-Self-supervised learning,"Masked autoencoders (e.g., BERT, MAE)"
+Self-supervised learning,"Contrastive learning"
+Self-supervised learning,"Masked autoencoders"
