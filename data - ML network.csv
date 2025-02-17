@@ -1,0 +1,78 @@
+Source,Target
+Machine learning,Supervised learning
+Machine learning,Unsupervised learning
+Machine learning,Reinforcement learning
+Machine learning,Other advanced algorithms
+Machine learning,Semi-supervised learning
+Machine learning,Self-supervised learning
+Supervised learning,Regression algorithms
+Supervised learning,Classification algorithms
+Regression algorithms,Linear regression
+Regression algorithms,Polynomial regression
+Regression algorithms,Ridge regression
+Regression algorithms,Lasso regression
+Regression algorithms,ElasticNet regression
+Classification algorithms,Logistic regression
+Classification algorithms,Decision trees
+Classification algorithms,Random forest
+Classification algorithms,Support vector machines (SVM)
+Classification algorithms,k-nearest neighbors (k-NN)
+Classification algorithms,Naive bayes
+Classification algorithms,Gradient boosting machines (GBM)
+Classification algorithms,Neural networks (for classification)
+Gradient boosting machines (GBM),XGBoost
+Gradient boosting machines (GBM),LightGBM
+Gradient boosting machines (GBM),CatBoost
+Unsupervised learning,Clustering algorithms
+Unsupervised learning,Dimensionality reduction algorithms
+Unsupervised learning,Association rule learning
+Unsupervised learning,Anomaly detection
+Clustering algorithms,k-Means clustering
+Clustering algorithms,Hierarchical clustering
+Clustering algorithms,DBSCAN
+Clustering algorithms,Gaussian mixture models (GMM)
+Clustering algorithms,Mean shift clustering
+Dimensionality reduction algorithms,Principal component analysis (PCA)
+Dimensionality reduction algorithms,t-Distributed stochastic neighbor embedding (t-SNE)
+Dimensionality reduction algorithms,Uniform manifold approximation and projection (UMAP)
+Dimensionality reduction algorithms,Linear discriminant analysis (LDA)
+Dimensionality reduction algorithms,Independent component analysis (ICA)
+Association rule learning,Apriori algorithm
+Association rule learning,Eclat algorithm
+Association rule learning,FP-growth algorithm
+Anomaly detection,Isolation forest
+Reinforcement learning,Model-free algorithms
+Reinforcement learning,Model-based algorithms
+Model-free algorithms,Q-Learning
+Model-free algorithms,Deep Q-Networks (DQN)
+Model-free algorithms,SARSA (State-Action-Reward-State-Action)
+Model-free algorithms,Policy gradient methods
+Policy gradient methods,REINFORCE
+Policy gradient methods,Actor-critic methods
+Policy gradient methods,Proximal policy optimization (PPO)
+Policy gradient methods,"Advantage actor-critic (A2C, A3C)"
+Model-based algorithms,Monte carlo tree search (MCTS)
+Model-based algorithms,"Dynamic programming (e.g., Value Iteration, Policy Iteration)"
+Other advanced algorithms,Ensemble learning
+Other advanced algorithms,Deep learning algorithms
+Other advanced algorithms,Natural language processing (NLP)
+Other advanced algorithms,Time series analysis
+Ensemble learning,Bagging (Bootstrap aggregating)
+Ensemble learning,"Boosting (e.g., AdaBoost, gradient boosting)"
+Ensemble learning,Stacking
+Deep learning algorithms,Convolutional neural networks (CNNs)
+Deep learning algorithms,Recurrent neural networks (RNNs)
+Deep learning algorithms,Generative adversarial networks (GANs)
+Deep learning algorithms,"Transformer models (e.g., BERT, GPT)"
+Recurrent neural networks (RNNs),Long short-term memory (LSTM)
+Recurrent neural networks (RNNs),Gated recurrent units (GRUs)
+Natural language processing (NLP),Word2Vec
+Natural language processing (NLP),GloVe
+Natural language processing (NLP),"Transformer-based models (e.g., BERT, GPT, T5)"
+Time series analysis,ARIMA (AutoRegressive integrated moving average)
+Time series analysis,Prophet (by Facebook)
+Time series analysis,LSTMs for time series
+Semi-supervised learning,Label Propagation
+Semi-supervised learning,Self-Training
+Self-supervised learning,"Contrastive learning (e.g., SimCLR, MoCo)"
+Self-supervised learning,"Masked autoencoders (e.g., BERT for NLP, MAE for vision)"
