@@ -32,11 +32,11 @@ Clustering algorithms,Hierarchical clustering
 Clustering algorithms,DBSCAN
 Clustering algorithms,Gaussian mixture models (GMM)
 Clustering algorithms,Mean shift clustering
-Dimensionality reduction algorithms, PCA
-Dimensionality reduction algorithms,t-SNE
-Dimensionality reduction algorithms,UMAP
-Dimensionality reduction algorithms,LDA
-Dimensionality reduction algorithms,ICA
+Dimensionality reduction algos, PCA
+Dimensionality reduction algos,t-SNE
+Dimensionality reduction algos,UMAP
+Dimensionality reduction algos,LDA
+Dimensionality reduction algos,ICA
 Association rule learning,Apriori algorithm
 Association rule learning,Eclat algorithm
 Association rule learning,FP-growth algorithm
