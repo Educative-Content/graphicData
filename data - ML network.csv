@@ -24,7 +24,7 @@ Gradient boosting machines (GBM),XGBoost
 Gradient boosting machines (GBM),LightGBM
 Gradient boosting machines (GBM),CatBoost
 Unsupervised learning,Clustering algorithms
-Unsupervised learning,Dimensionality reduction algorithms
+Unsupervised learning,Dimensionality reduction algos
 Unsupervised learning,Association rule learning
 Unsupervised learning,Anomaly detection
 Clustering algorithms,k-Means clustering
@@ -32,11 +32,11 @@ Clustering algorithms,Hierarchical clustering
 Clustering algorithms,DBSCAN
 Clustering algorithms,Gaussian mixture models (GMM)
 Clustering algorithms,Mean shift clustering
-Dimensionality reduction algorithms,Principal component analysis (PCA)
-Dimensionality reduction algorithms,t-Distributed stochastic neighbor embedding (t-SNE)
-Dimensionality reduction algorithms,Uniform manifold approximation and projection (UMAP)
-Dimensionality reduction algorithms,Linear discriminant analysis (LDA)
-Dimensionality reduction algorithms,Independent component analysis (ICA)
+Dimensionality reduction algorithms, PCA
+Dimensionality reduction algorithms,t-SNE
+Dimensionality reduction algorithms,UMAP
+Dimensionality reduction algorithms,LDA
+Dimensionality reduction algorithms,ICA
 Association rule learning,Apriori algorithm
 Association rule learning,Eclat algorithm
 Association rule learning,FP-growth algorithm
