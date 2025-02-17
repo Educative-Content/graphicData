@@ -55,17 +55,17 @@ Model-based algorithms,Monte carlo tree search (MCTS)
 Model-based algorithms,"Dynamic programming (e.g., Value Iteration, Policy Iteration)"
 Advanced algorithms,Ensemble learning
 Advanced algorithms,Deep learning algorithms
-Advanced algorithms,Natural language processing (NLP)
+Advanced algorithms,Natural language processing
 Advanced algorithms,Time series analysis
-Ensemble learning,Bagging (Bootstrap aggregating)
-Ensemble learning,"Boosting (e.g., AdaBoost, gradient boosting)"
+Ensemble learning,Bagging
+Ensemble learning,Boosting (e.g. gradient boosting)
 Ensemble learning,Stacking
-Deep learning algorithms,Convolutional neural networks (CNNs)
-Deep learning algorithms,Recurrent neural networks (RNNs)
-Deep learning algorithms,Generative adversarial networks (GANs)
-Deep learning algorithms,"Transformer models (e.g., BERT, GPT)"
-Recurrent neural networks (RNNs),Long short-term memory (LSTM)
-Recurrent neural networks (RNNs),Gated recurrent units (GRUs)
+Deep learning algorithms,CNNs
+Deep learning algorithms,RNNs 
+Deep learning algorithms,GANs
+Deep learning algorithms,Transformer models
+Recurrent neural networks (RNNs),LSTM
+Recurrent neural networks (RNNs),GRUs
 Natural language processing (NLP),Word2Vec
 Natural language processing (NLP),GloVe
 Natural language processing (NLP),"Transformer-based models"
