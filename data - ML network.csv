@@ -44,15 +44,14 @@ Anomaly detection,Isolation forest
 Reinforcement learning,Model-free algorithms
 Reinforcement learning,Model-based algorithms
 Model-free algorithms,Q-Learning
-Model-free algorithms,Deep Q-Networks (DQN)
-Model-free algorithms,SARSA (State-Action-Reward-State-Action)
+Model-free algorithms,Deep Q-Networks
+Model-free algorithms,SARSA
 Model-free algorithms,Policy gradient methods
 Policy gradient methods,REINFORCE
 Policy gradient methods,Actor-critic methods
-Policy gradient methods,Proximal policy optimization (PPO)
-Policy gradient methods,"Advantage actor-critic (A2C, A3C)"
-Model-based algorithms,Monte carlo tree search (MCTS)
-Model-based algorithms,"Dynamic programming (e.g., Value Iteration, Policy Iteration)"
+Policy gradient methods,Proximal policy optimization
+Policy gradient methods,Advantage actor-critic
+Model-based algorithms,Monte carlo tree search
 Advanced algorithms,Ensemble learning
 Advanced algorithms,Deep learning algorithms
 Advanced algorithms,Natural language processing
