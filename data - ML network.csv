@@ -18,8 +18,8 @@ Classification algorithms,Random forest
 Classification algorithms,Support vector machines (SVM)
 Classification algorithms,k-nearest neighbors (k-NN)
 Classification algorithms,Naive bayes
-Classification algorithms,Gradient boosting machines (GBM)
-Classification algorithms,Neural networks (for classification)
+Classification algorithms,Gradient boosting machines
+Classification algorithms,Neural networks (classification)
 Gradient boosting machines (GBM),XGBoost
 Gradient boosting machines (GBM),LightGBM
 Gradient boosting machines (GBM),CatBoost
