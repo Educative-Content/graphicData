@@ -69,7 +69,7 @@ Recurrent neural networks (RNNs),GRUs
 Natural language processing (NLP),Word2Vec
 Natural language processing (NLP),GloVe
 Natural language processing (NLP),"Transformer-based models"
-Time series analysis,ARIMA (AutoRegressive integrated moving average)
+Time series analysis,ARIMA
 Time series analysis,Prophet (by Facebook)
 Time series analysis,LSTMs for time series
 Semi-supervised learning,Label propagation
