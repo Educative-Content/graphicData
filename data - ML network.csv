@@ -2,7 +2,7 @@ Source,Target
 Machine learning,Supervised learning
 Machine learning,Unsupervised learning
 Machine learning,Reinforcement learning
-Machine learning,Other advanced algorithms
+Machine learning,Advanced algorithms
 Machine learning,Semi-supervised learning
 Machine learning,Self-supervised learning
 Supervised learning,Regression algorithms
@@ -53,10 +53,10 @@ Policy gradient methods,Proximal policy optimization (PPO)
 Policy gradient methods,"Advantage actor-critic (A2C, A3C)"
 Model-based algorithms,Monte carlo tree search (MCTS)
 Model-based algorithms,"Dynamic programming (e.g., Value Iteration, Policy Iteration)"
-Other advanced algorithms,Ensemble learning
-Other advanced algorithms,Deep learning algorithms
-Other advanced algorithms,Natural language processing (NLP)
-Other advanced algorithms,Time series analysis
+Advanced algorithms,Ensemble learning
+Advanced algorithms,Deep learning algorithms
+Advanced algorithms,Natural language processing (NLP)
+Advanced algorithms,Time series analysis
 Ensemble learning,Bagging (Bootstrap aggregating)
 Ensemble learning,"Boosting (e.g., AdaBoost, gradient boosting)"
 Ensemble learning,Stacking
