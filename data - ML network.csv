@@ -97,7 +97,15 @@ Deep learning algorithms,CNNs
 Deep learning algorithms,RNNs 
 Deep learning algorithms,GANs
 Deep learning algorithms,Transformer models
-Semi-supervised learning,Label propagation
+Semi-supervised learning,Pseudo-labeling 
 Semi-supervised learning,Self-training
-Self-supervised learning,"Contrastive learning"
-Self-supervised learning,"Masked autoencoders"
+Semi-supervised learning,Graph-based methods
+Semi-supervised learning,Virtual adversarial training
+Semi-supervised learning,MixMatch
+Semi-supervised learning,FixMatch
+Semi-supervised learning,Consistency regularization
+Self-supervised learning,Contrastive learning (SimCLR, MoCo)
+Self-supervised learning,Masked autoencoders
+Self-supervised learning,BYOL
+Self-supervised learning,DINO
+Self-supervised learning,Generative models
