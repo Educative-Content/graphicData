@@ -95,8 +95,6 @@ Ensemble learning,Boosting (e.g. gradient boosting)
 Ensemble learning,Stacking
 Deep learning algorithms,CNNs
 Deep learning algorithms,RNNs 
-RNNs,LSTM
-RNNs,GRUs
 Deep learning algorithms,GANs
 Deep learning algorithms,Transformer models
 Semi-supervised learning,Label propagation
