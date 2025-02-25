@@ -63,16 +63,17 @@ Anomaly detection,Gaussian mixture model
 Anomaly detection,HDBSCAN
 Reinforcement learning,Model-free algorithms
 Reinforcement learning,Model-based algorithms
-Model-free algorithms,Q-Learning
-Model-free algorithms,Deep Q-Networks
-Model-free algorithms,SARSA
-Model-free algorithms,Policy gradient methods
+Model-free algorithms, Value-based RL
+Model-free algorithms,Policy-based RL
 Model-free algorithms, Actor-critic methods
-Policy gradient methods,REINFORCE
-Policy gradient methods,Proximal policy optimization
-Policy gradient methods,Vanilla policy gradient
-Policy gradient methods,Trust region policy optimization
-Policy gradient methods,Natural policy gradient
+Value-based RL,Q-Learning
+Value-based RL,Deep Q-Networks
+Value-based RL,SARSA
+Policy-based RL,REINFORCE
+Policy-based RL,Proximal policy optimization
+Policy-based RL,Vanilla policy gradient
+Policy-based RL,Trust region policy optimization
+Policy-based RL,Natural policy gradient
 Actor-critic methods,Advantage actor-critic
 Actor-critic methods,Asynchronous A2C 
 Actor-critic methods,Deep deterministic policy gradient
