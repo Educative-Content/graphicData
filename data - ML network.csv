@@ -84,6 +84,10 @@ Actor-critic methods,Soft actor-critic
 Actor-critic methods,Generalized advantage estimation
 Actor-critic methods,Stochastic value gradients
 Model-based algorithms,Monte carlo tree search
+Model-based algorithms,Dyna-Q
+Model-based algorithms,PILCO
+Model-based algorithms,AlphaGo
+Model-based algorithms,AlphaZero
 Advanced algorithms,Ensemble learning
 Advanced algorithms,Deep learning algorithms
 Advanced algorithms,Natural language processing
