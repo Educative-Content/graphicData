@@ -65,7 +65,7 @@ Reinforcement learning,Model-free algorithms
 Reinforcement learning,Model-based algorithms
 Model-free algorithms,Value-based RL
 Model-free algorithms,Policy-based RL
-Model-free algorithms, Actor-critic methods
+Model-free algorithms,Actor-critic methods
 Value-based RL,Q-Learning
 Value-based RL,Deep Q-Networks
 Value-based RL,SARSA
