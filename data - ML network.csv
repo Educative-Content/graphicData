@@ -106,7 +106,7 @@ Semi-supervised learning,FixMatch
 Semi-supervised learning,Mean teacher
 Semi-supervised learning,Π-Model
 Semi-supervised learning,Temporal ensembling
-Self-supervised learning,Contrastive learning (SimCLR or MoCo)
+Self-supervised learning,Contrastive learning
 Self-supervised learning,Masked autoencoders
 Self-supervised learning,BYOL
 Self-supervised learning,DINO
