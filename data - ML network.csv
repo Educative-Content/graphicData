@@ -97,8 +97,8 @@ Deep learning algorithms,CNNs
 Deep learning algorithms,RNNs 
 Deep learning algorithms,GANs
 Deep learning algorithms,Transformer models
-Recurrent neural networks (RNNs),LSTM
-Recurrent neural networks (RNNs),GRUs
+RNNs,LSTM
+RNNs,GRUs
 Semi-supervised learning,Label propagation
 Semi-supervised learning,Self-training
 Self-supervised learning,"Contrastive learning"
