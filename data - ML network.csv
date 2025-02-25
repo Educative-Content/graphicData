@@ -23,14 +23,14 @@ Regression algorithms,LightGBM
 Classification algorithms,Logistic regression
 Classification algorithms,Decision trees
 Classification algorithms,Random forest
-Classification algorithms,Support vector machines (SVM)
+Classification algorithms,Support vector classification
 Classification algorithms,k-nearest neighbors (k-NN)
 Classification algorithms,Naive bayes
 Classification algorithms,Gradient boosting machines
 Classification algorithms,Neural networks (classification)
-Gradient boosting machines (GBM),XGBoost
-Gradient boosting machines (GBM),LightGBM
-Gradient boosting machines (GBM),CatBoost
+Gradient boosting machines,XGBoost
+Gradient boosting machines,LightGBM
+Gradient boosting machines,CatBoost
 Unsupervised learning,Clustering algorithms
 Unsupervised learning,Dimensionality reduction algos
 Unsupervised learning,Association rule learning
