@@ -8,10 +8,18 @@ Machine learning,Self-supervised learning
 Supervised learning,Regression algorithms
 Supervised learning,Classification algorithms
 Regression algorithms,Linear regression
+Regression algorithms,multiple regression
 Regression algorithms,Polynomial regression
 Regression algorithms,Ridge & Lasso regression
 Regression algorithms,Support vector regression
 Regression algorithms,ElasticNet regression
+Regression algorithms,Decision trees 
+Regression algorithms,Random forest
+Regression algorithms,Gradient Boosting Regression
+Regression algorithms,AdaBoost
+Regression algorithms,XGBoost
+Regression algorithms,CatBoost
+Regression algorithms,LightGBM
 Classification algorithms,Logistic regression
 Classification algorithms,Decision trees
 Classification algorithms,Random forest
