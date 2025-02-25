@@ -90,8 +90,6 @@ Model-based algorithms,AlphaGo
 Model-based algorithms,AlphaZero
 Advanced algorithms,Ensemble learning
 Advanced algorithms,Deep learning algorithms
-Advanced algorithms,Natural language processing
-Advanced algorithms,Time series analysis
 Ensemble learning,Bagging
 Ensemble learning,Boosting (e.g. gradient boosting)
 Ensemble learning,Stacking
@@ -101,12 +99,6 @@ Deep learning algorithms,GANs
 Deep learning algorithms,Transformer models
 Recurrent neural networks (RNNs),LSTM
 Recurrent neural networks (RNNs),GRUs
-Natural language processing (NLP),Word2Vec
-Natural language processing (NLP),GloVe
-Natural language processing (NLP),"Transformer-based models"
-Time series analysis,ARIMA
-Time series analysis,Prophet (by Facebook)
-Time series analysis,LSTMs for time series
 Semi-supervised learning,Label propagation
 Semi-supervised learning,Self-training
 Self-supervised learning,"Contrastive learning"
