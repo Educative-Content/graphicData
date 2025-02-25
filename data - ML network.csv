@@ -16,7 +16,7 @@ Regression algorithms,ElasticNet regression
 Regression algorithms,Decision trees 
 Regression algorithms,Random forest
 Regression algorithms,Gradient boosting regression
-Gradient boosting regression,AdaBoost
+Regression algorithms,AdaBoost
 Gradient boosting regression,XGBoost
 Gradient boosting regression,CatBoost
 Gradient boosting regression,LightGBM
