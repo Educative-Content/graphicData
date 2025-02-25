@@ -103,7 +103,9 @@ Semi-supervised learning,Graph-based methods
 Semi-supervised learning,Virtual adversarial training
 Semi-supervised learning,MixMatch
 Semi-supervised learning,FixMatch
-Semi-supervised learning,Consistency regularization
+Semi-supervised learning,Mean teacher
+Semi-supervised learning,Π-Model
+Semi-supervised learning,Temporal ensembling
 Self-supervised learning,Contrastive learning (SimCLR or MoCo)
 Self-supervised learning,Masked autoencoders
 Self-supervised learning,BYOL
