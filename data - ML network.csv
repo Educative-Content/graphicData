@@ -32,6 +32,8 @@ Clustering algorithms,Hierarchical clustering
 Clustering algorithms,DBSCAN
 Clustering algorithms,Gaussian mixture models (GMM)
 Clustering algorithms,Mean shift clustering
+Clustering algorithms,Affinity propagation
+Clustering algorithms,OPTICS
 Dimensionality reduction algos, PCA
 Dimensionality reduction algos,t-SNE
 Dimensionality reduction algos,UMAP
