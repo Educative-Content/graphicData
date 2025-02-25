@@ -43,6 +43,15 @@ Association rule learning,Apriori algorithm
 Association rule learning,Eclat algorithm
 Association rule learning,FP-growth algorithm
 Anomaly detection,Isolation forest
+Anomaly detection,DBSCAN
+Anomaly detection,Autoencoders
+Anomaly detection,One-class SVM
+Anomaly detection,K-Means clustering
+Anomaly detection,Local outlier factor
+Anomaly detection,PCA-based anomaly detection
+Anomaly detection,Histogram-based outlier score
+Anomaly detection,Gaussian mixture model
+Anomaly detection,HDBSCAN
 Reinforcement learning,Model-free algorithms
 Reinforcement learning,Model-based algorithms
 Model-free algorithms,Q-Learning
