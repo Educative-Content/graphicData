@@ -67,10 +67,19 @@ Model-free algorithms,Q-Learning
 Model-free algorithms,Deep Q-Networks
 Model-free algorithms,SARSA
 Model-free algorithms,Policy gradient methods
+Model-free algorithms, Actor-critic methods
 Policy gradient methods,REINFORCE
-Policy gradient methods,Actor-critic methods
 Policy gradient methods,Proximal policy optimization
-Policy gradient methods,Advantage actor-critic
+Policy gradient methods,Vanilla policy gradient
+Policy gradient methods,Trust region policy optimization
+Policy gradient methods,Natural policy gradient
+Actor-critic methods,Advantage actor-critic
+Actor-critic methods,Asynchronous A2C 
+Actor-critic methods,Deep deterministic policy gradient
+Actor-critic methods,Twin delayed DDPG
+Actor-critic methods,Soft actor-critic
+Actor-critic methods,Generalized advantage estimation
+Actor-critic methods,Stochastic value gradients
 Model-based algorithms,Monte carlo tree search
 Advanced algorithms,Ensemble learning
 Advanced algorithms,Deep learning algorithms
