@@ -1,6 +1,6 @@
 Year,Name,Description
 1991,Haber & Stornetta's First Blockchain,Stuart Haber and W. Scott Stornetta worked on the first blockchain-like system for securing digital timestamps.
-1992,Introduction of Merkle Trees,Haber, Stornetta, and Dave Bayer incorporated Merkle trees into blockchain to improve efficiency by grouping multiple document certificates into a single block.
+1992,Merkle Trees,Haber, Stornetta, and Dave Bayer incorporated Merkle trees into blockchain to improve efficiency by grouping multiple document certificates into a single block.
 2000,Stefan Konst's Cryptographic Chains,Stefan Konst published his theory on cryptographically secured chains.
 2004,Hal Finney’s Reusable Proof of Work,Cryptographic activist Hal Finney introduced "Reusable Proof of Work" (RPOW), a key precursor to Bitcoin’s proof-of-work system.
 2008,Satoshi Nakamoto's Decentralized Blockchain,Satoshi Nakamoto conceptualized "Distributed Blockchain" in his white paper: "A Peer-to-Peer Electronic Cash System."
