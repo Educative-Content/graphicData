@@ -1,1 +1,28 @@
+Year,Name,Description
+1991,Haber & Stornetta's First Blockchain,Stuart Haber and W. Scott Stornetta worked on the first blockchain-like system for securing digital timestamps.
+1992,Introduction of Merkle Trees,Haber, Stornetta, and Dave Bayer incorporated Merkle trees into blockchain to improve efficiency by grouping multiple document certificates into a single block.
+2000,Stefan Konst's Cryptographic Chains,Stefan Konst published his theory on cryptographically secured chains.
+2004,Hal Finney’s Reusable Proof of Work,Cryptographic activist Hal Finney introduced "Reusable Proof of Work" (RPOW), a key precursor to Bitcoin’s proof-of-work system.
+2008,Satoshi Nakamoto's Decentralized Blockchain,Satoshi Nakamoto conceptualized "Distributed Blockchain" in his white paper: "A Peer-to-Peer Electronic Cash System."
+2009,Bitcoin & Blockchain Implementation,Nakamoto implemented blockchain as a core component of Bitcoin, serving as a public ledger for all transactions.
+2009,James Howells Starts Mining Bitcoin,James Howells, an IT worker in the UK, started mining Bitcoin.
+2014,Blockchain 2.0 Emerges,The term "Blockchain 2.0" emerged, referring to the expansion of blockchain beyond cryptocurrency.
+2014,Ethereum Crowdsale,Ethereum blockchain was funded through a public crowdsale, marking the beginning of smart contract platforms.
+2015,Hyperledger Project Launched,The Linux Foundation launched the Hyperledger project to promote open-source blockchain development for enterprises.
+2015,Ethereum Frontier Network Launched,Ethereum's initial public network, "Frontier," went live, allowing developers to build decentralized applications (dApps).
+2016,Blockchain Terminology Popularization,The words "block" and "chain" were officially combined into "blockchain."
+2016,Bitfinex Hack,Bitfinex, a major Bitcoin exchange, was hacked, resulting in the theft of 120,000 bitcoins.
+2016,Blockchain Adoption in Finance,Accenture reported that blockchain reached a 13.5% adoption rate in financial services, entering the early adopters' phase.
+2016,Global Blockchain Forum Established,Industry trade groups formed the Global Blockchain Forum under the Chamber of Digital Commerce.
+2017,EOS Blockchain Introduced,Block.one introduced the EOS blockchain operating system to improve scalability for dApps.
+2017,Japan Recognizes Bitcoin,Japan officially recognized Bitcoin as a legal currency.
+2018,Big Tech Bans Crypto Ads,Google, Twitter, and Facebook banned advertisements related to cryptocurrencies.
+2018,Gartner Blockchain Adoption Survey,Gartner found that only 1% of CIOs had adopted blockchain, while 8% were in planning or experimental stages.
+2018,Bitcoin Turns 10,Bitcoin completed its first decade since its launch in 2009.
+2019,Ethereum Network Growth,Ethereum network transactions exceeded 1 million per day.
+2019,Gartner's Blockchain Business Impact Report,Gartner reported that 5% of CIOs considered blockchain a "game-changer" for their business.
+2020,Bitcoin Blockchain Exceeds 200GB,The Bitcoin ledger size surpassed 200GB, reflecting continued growth in blockchain transactions.
+2020,Stablecoin Adoption Rises,Stablecoins gained popularity due to their price stability compared to traditional cryptocurrencies.
+2020,Ethereum Beacon Chain Launched,Ethereum launched the Beacon Chain as part of its transition to Ethereum 2.0.
+2022,Ethereum Merge,Ethereum completed "The Merge," switching its consensus mechanism from Proof of Work (PoW) to Proof of Stake (PoS).
 
