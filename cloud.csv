@@ -1,17 +1,28 @@
 Year,Name,Description
-1993,General Magic,Concept of cloud computing emerged with General Magic and AT&T.
-1994,Telescript,The term "cloud" was used in the context of Telescript by General Magic.
-1963,Project MAC,DARPA funded Project MAC, the first computer time-sharing system.
-1999,Medidata Rave,Medidata launched Rave, the first electronic data capture software for clinical data.
-2002,AWS,Amazon established its subsidiary Amazon Web Services.
-2006,AWS S3 & EC2,Amazon introduced Simple Storage Service (S3) and Elastic Compute Cloud (EC2); Google launched Google Docs.
-2007,Netflix Streaming,Netflix launched its online video streaming service; IBM and Google partnered with universities for cloud research.
-2008,Google App Engine,Google launched Google App Engine (PaaS); NASA started the Cluster Exploratory program.
-2009,NASA Nebula,NASA launched Nebula, the first open-source software for private/hybrid clouds; France announced the Andromède Project.
-2010,Microsoft Azure,Microsoft Azure was launched; OpenStack project was initiated.
-2011,IBM SmartCloud,IBM introduced SmartCloud; the US government launched FedRAMP; Apple launched iCloud.
-2012,Oracle Cloud,Oracle Cloud was announced; Google Compute Engine was released in preview.
-2013,Compute Engine,Google Compute Engine became generally available; Docker launched as a PaaS model.
-2019,AWS Outposts,Amazon launched AWS Outposts.
-2020,Cloud Growth,Cloud adoption surged due to the COVID-19 pandemic; Zoom saw massive growth; demand for cloud architects increased.
-2024,Cloud Spending,Cloud computing spending reached $706 billion, projected to hit $1.3 trillion by 2025.
+1963,Project MAC,DARPA funded Project MAC at MIT, pioneering time-sharing systems, an early foundation for cloud computing.
+1969,ARPANET,The first packet-switching network, developed by DARPA, laid the groundwork for the modern internet and cloud networking.
+1970,Virtualization Software,Early development of virtualization technology, allowing multiple operating systems to run on shared hardware, crucial for cloud computing.
+1991,World Wide Web,Tim Berners-Lee introduced the World Wide Web, enabling web-based applications and cloud-hosted services.
+1993,General Magic,General Magic and AT&T discussed the concept of cloud computing in the context of Telescript and Personal Link.
+1994,Telescript,General Magic introduced Telescript, a distributed programming language enabling mobile agents to process data remotely, resembling cloud computing concepts.
+1999,Medidata Rave,Medidata launched Rave, the first cloud-based electronic data capture (EDC) software for clinical trial management.
+1999,Salesforce,Salesforce pioneered Software as a Service (SaaS), delivering enterprise CRM applications via the cloud.
+2002,AWS,Amazon Web Services was launched, providing cloud-based infrastructure services, including storage and computing power.
+2006,AWS S3 & EC2,Amazon introduced Simple Storage Service (S3) for scalable cloud storage and Elastic Compute Cloud (EC2) for virtualized computing.
+2007,Netflix Streaming,Netflix launched its cloud-based video streaming service, leveraging AWS for scalable content delivery.
+2008,Google App Engine,Google introduced App Engine, a Platform as a Service (PaaS) for developers to deploy and scale web applications.
+2009,NASA Nebula,NASA developed Nebula, an open-source cloud computing platform for scientific research, contributing to early private and hybrid cloud solutions.
+2009,Andromède Project,France launched a national cloud initiative to compete with global providers, but it failed and was discontinued in 2020.
+2010,Microsoft Azure,Microsoft launched Azure, a cloud computing platform offering IaaS, PaaS, and SaaS services.
+2010,OpenStack,Rackspace and NASA initiated OpenStack, an open-source cloud platform to enable organizations to deploy cloud services on standard hardware.
+2011,IBM SmartCloud,IBM introduced SmartCloud, providing cloud-based enterprise solutions aligned with the Smarter Planet initiative.
+2011,FedRAMP,The U.S. government established FedRAMP, a standardized security authorization framework for cloud services used by federal agencies.
+2011,iCloud,Apple launched iCloud, offering cloud storage and synchronization for personal files and applications across Apple devices.
+2012,Oracle Cloud,Oracle announced its cloud computing platform, offering database, application, and infrastructure services.
+2012,Google Compute Engine,Google released Compute Engine, an Infrastructure as a Service (IaaS) allowing users to run virtual machines on Google Cloud.
+2013,Docker,Docker introduced containerization technology, enabling efficient cloud-native application deployment and microservices architecture.
+2015,Kubernetes,Google released Kubernetes, an open-source container orchestration platform automating deployment, scaling, and management of cloud-native applications.
+2016,Alibaba Cloud,Alibaba Cloud expanded globally, providing cloud infrastructure, big data, and AI services, particularly dominating the Asian market.
+2019,AWS Outposts,Amazon launched AWS Outposts, extending AWS infrastructure and services to on-premises data centers for hybrid cloud solutions.
+2020,Cloud Growth,The COVID-19 pandemic accelerated cloud adoption, with organizations shifting to remote work and increasing demand for cloud infrastructure.
+2024,Cloud Spending,Global cloud computing spending reached $706 billion, projected to surpass $1.3 trillion by 2025, driven by AI, IoT, and enterprise digital transformation.
