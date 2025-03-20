@@ -17,10 +17,10 @@ Year,Name,Description
 2011,IBM SmartCloud,IBM introduced SmartCloud which provides cloud-based enterprise solutions aligned with the Smarter Planet initiative.
 2011,FedRAMP,The U.S. government established FedRAMP, a standardized security authorization framework for cloud services used by federal agencies.
 2011,iCloud,Apple launched iCloud which offers cloud storage and synchronization for personal files and applications across Apple devices.
-2012,Oracle Cloud,Oracle announced its cloud computing platform which offers database & application & infrastructure services.
+2016,Oracle Cloud,Oracle announced its cloud computing platform which offers database & application & infrastructure services.
 2012,Compute Engine,Google released Compute Engine - an Infrastructure as a Service (IaaS) allowing users to run virtual machines on Google Cloud.
 2013,Docker,Docker introduced containerization technology which enables efficient cloud-native application deployment and microservices architecture.
-2015,Google released Kubernetes, an open-source container orchestration platform that automates the deployment, scaling, and management of cloud-native applications.
+2015,Kubernetes, an open-source container orchestration platform that automates the deployment, scaling, and management of cloud-native applications.
 2009,Alibaba Cloud,Alibaba Cloud expanded globally which provides cloud infrastructure, big data, and AI services, particularly dominating the Asian market.
 2019,AWS Outposts,Amazon launched AWS Outposts which extends AWS infrastructure and services to on-premises data centers for hybrid cloud solutions.
 2020,Cloud Growth,The COVID-19 pandemic accelerated cloud adoption with organizations shifting to remote work and increasing demand for cloud infrastructure.
