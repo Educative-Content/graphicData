@@ -19,12 +19,12 @@ TOPS-10,1967,DEC PDP-10 OS.
 TENEX,1969,Early virtual memory OS by BBN.
 TOPS-20,1976,Successor to TOPS-10.
 UTS,1966,Unix-based mainframe OS.
-CP-V,1973,Control Program for Burroughs systems.
+CP-V,1973,Control program for Burroughs systems.
 RT-11,1973,Real-time OS for PDP-11.
 RSTS,1970,Multi-user OS for PDP-11.
 RSX-11,1973,Multi-tasking OS for PDP-11.
-VMS,1977,Virtual Memory System for DEC computers.
-CPF,1978,Control Program Facility for mainframes.
+VMS,1977,Virtual memory system for DEC computers.
+CPF,1978,Control program facility for mainframes.
 Pick OS,1973,Multi-user OS with database integration.
 CP/M-80,1974,Early OS for microcomputers.
 Unix,1971,Developed by AT&T Bell Labs.
