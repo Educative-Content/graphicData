@@ -1,34 +1,36 @@
 OS Name,Release Date,Notes
 GM-NAA I/O,1956,First OS for IBM 704 mainframe.
-OS/360,1965,IBM's mainframe OS.
-DOS/360,1966,IBM disk-based OS for mainframes.
-TSS/360,1967,Time-sharing system for IBM mainframes.
-MTS,1967,Michigan Terminal System.
-MUSIC/SP,1972,Multi-User System for IBM mainframes.
-EXEC I,1962,Batch processing OS for multiprogramming.
+PLATO,1960,Educational OS with early GUI concepts.
 MCP,1961,Burroughs Master Control Program.
 CTSS,1961,Compatible Time-Sharing System (MIT).
+CTSS ,1961,Timesharing systems.
+EXEC I,1962,Batch processing OS for multiprogramming.
 GECOS,1962,General Electric OS (later became GCOS).
-Multics,1969,Predecessor to Unix.
-Kronos,1971,CDC mainframe OS.
-NOS,1975,Network Operating System by CDC.
-PLATO,1960,Educational OS with early GUI concepts.
-EXEC 8,1964,Mainframe OS by Unisys.
 GCOS,1962,General Comprehensive OS (evolved from GECOS).
+EXEC 8,1964,Mainframe OS by Unisys.
+OS/360,1965,IBM's mainframe OS.
+DOS/360,1966,IBM disk-based OS for mainframes.
+UTS,1966,Unix-based mainframe OS.
+TSS/360,1967,Time-sharing system for IBM mainframes.
+MTS,1967,Michigan Terminal System.
 TOPS-10,1967,DEC PDP-10 OS.
 TENEX,1969,Early virtual memory OS by BBN.
-TOPS-20,1976,Successor to TOPS-10.
-UTS,1966,Unix-based mainframe OS.
+Multics,1969,Predecessor to Unix.
+RSTS,1970,Multi-user OS for PDP-11.
+Kronos,1971,CDC mainframe OS.
+Unix,1971,Developed by AT&T Bell Labs.
+MUSIC/SP,1972,Multi-User System for IBM mainframes.
+RSX-11,1972,Multi-tasking OS for PDP-11.
+Pick OS,1973,Multi-user OS with database integration.
 CP-V,1973,Multiprogramming OS with batch - timesharing - transaction processing.
 RT-11,1973,Real-time OS for PDP-11.
-RSTS,1970,Multi-user OS for PDP-11.
-RSX-11,1972,Multi-tasking OS for PDP-11.
+CP/M-80,1974,Early OS for microcomputers.
+NOS,1975,Network Operating System by CDC.
+TOPS-20,1976,Successor to TOPS-10.
 VMS,1977,Virtual memory system for DEC computers.
 CPF,1978,Control program facility for mainframes.
-Pick OS,1973,Multi-user OS with database integration.
-CP/M-80,1974,Early OS for microcomputers.
-Unix,1971,Developed by AT&T Bell Labs.
 MS-DOS,1981,Microsoft's first OS for IBM PCs.
+PC-DOS,1981,Personal Computer by IBM.
 SunOS,1982,BSD-based OS by Sun Microsystems.
 Apple Lisa OS,1983,First Apple OS with GUI.
 Macintosh System 1,1984,First Apple Mac OS with GUI.
@@ -38,23 +40,23 @@ OS/2,1987,Joint IBM-Microsoft project (later IBM-only).
 NeXTSTEP,1989,Foundation for macOS/iOS.
 Linux,1991,Open-source kernel by Linus Torvalds.
 Solaris,1992,SunOS successor by Sun Microsystems.
+Windows NT 3.1,1993,Microsoft's first NT-based OS.
+FreeBSD,1993,Open-source BSD-based OS.
 Slackware,1993,One of the earliest Linux distros.
 Debian,1993,Community-driven Linux distro.
-FreeBSD,1993,Open-source BSD-based OS.
-Windows NT 3.1,1993,Microsoft's first NT-based OS.
 Red Hat Linux,1995,Commercial Linux distribution.
 OpenBSD,1995,Security-focused BSD variant.
 BeOS,1995,Multimedia-focused OS for Be Inc. hardware.
 Windows 95,1995,Introduced Start menu and taskbar.
 Mac OS 8,1997,Major update during Apple's transitional period.
 Windows 98,1998,Improved hardware support and IE integration.
-Mac OS 9,1999,"Final ""Classic"" Mac OS version."
+Mac OS 9,1999,Final Classic Mac OS version.
+Windows mobile,2000,Microsoft's OS for PDAs and smartphones.
 Windows 2000,2000,NT-based OS for business use.
 Mac OS X Cheetah,2001,First macOS based on Unix (10.0).
+macOS,2001,Renamed Mac OS X based on Unix.
 Windows XP,2001,Longest-running NT consumer OS.
 Haiku,2002,Open-source reimplementation of BeOS.
-macOS,2001,Renamed Mac OS X based on Unix.
-Windows mobile,2000,Microsoft's OS for PDAs and smartphones.
 Fedora,2003,Community version of Red Hat Linux.
 CentOS,2004,Community-driven Red Hat Enterprise Linux clone.
 Ubuntu,2004,User-friendly Debian-based Linux distro.
@@ -63,9 +65,7 @@ iOS,2007,Apple's mobile OS for iPhone.
 Android,2008,Google's open-source mobile OS.
 Windows 7,2009,Polished successor to Vista.
 Chrome OS,2009,Cloud-centric OS by Google.
-macOS Sierra,2016,"Renamed from ""OS X"" to ""macOS."""
 Windows 10,2015,Introduced universal apps and Cortana.
+macOS Sierra,2016,Renamed from OS X to macOS.
 Windows 11,2021,Modernized UI with Android app support.
 macOS Sonoma,2023,Latest macOS version (14.0).
-CTSS ,1961,Timesharing systems
-PC-DOS,1981,Personal Computer by IBM.
