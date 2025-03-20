@@ -36,7 +36,6 @@ AmigaOS,1985,For Commodore Amiga PCs.
 Windows 1.0,1985,Microsoft's first GUI OS.
 OS/2,1987,Joint IBM-Microsoft project (later IBM-only).
 NeXTSTEP,1989,Foundation for macOS/iOS.
-BeOS,1995,Multimedia-focused OS for Be Inc. hardware.
 Linux,1991,Open-source kernel by Linus Torvalds.
 Solaris,1992,SunOS successor by Sun Microsystems.
 Slackware,1993,One of the earliest Linux distros.
@@ -45,6 +44,7 @@ FreeBSD,1993,Open-source BSD-based OS.
 Windows NT 3.1,1993,Microsoft's first NT-based OS.
 Red Hat Linux,1995,Commercial Linux distribution.
 OpenBSD,1995,Security-focused BSD variant.
+BeOS,1995,Multimedia-focused OS for Be Inc. hardware.
 Windows 95,1995,Introduced Start menu and taskbar.
 Mac OS 8,1997,Major update during Apple's transitional period.
 Windows 98,1998,Improved hardware support and IE integration.
