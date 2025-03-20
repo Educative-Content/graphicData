@@ -19,7 +19,7 @@ TOPS-10,1967,DEC PDP-10 OS.
 TENEX,1969,Early virtual memory OS by BBN.
 TOPS-20,1976,Successor to TOPS-10.
 UTS,1966,Unix-based mainframe OS.
-CP-V,1973,Multiprogramming OS with batch, timesharing, and transaction processing.
+CP-V,1973,Multiprogramming OS with batch - timesharing - transaction processing.
 RT-11,1973,Real-time OS for PDP-11.
 RSTS,1970,Multi-user OS for PDP-11.
 RSX-11,1972,Multi-tasking OS for PDP-11.
