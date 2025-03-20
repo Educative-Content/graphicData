@@ -22,7 +22,7 @@ UTS,1966,Unix-based mainframe OS.
 CP-V,1973,Multiprogramming OS with batch, timesharing, and transaction processing.
 RT-11,1973,Real-time OS for PDP-11.
 RSTS,1970,Multi-user OS for PDP-11.
-RSX-11,1973,Multi-tasking OS for PDP-11.
+RSX-11,1972,Multi-tasking OS for PDP-11.
 VMS,1977,Virtual memory system for DEC computers.
 CPF,1978,Control program facility for mainframes.
 Pick OS,1973,Multi-user OS with database integration.
