@@ -1,0 +1,56 @@
+Year,Event,Category,Impact
+1941,"Zuse Z3, the first programmable computer, is developed.",Mainframe,First programmable computer.
+1946,"ENIAC, the first general-purpose electronic computer, is completed.",Mainframe,Paved the way for modern computing.
+1951,"UNIVAC I, the first commercial computer, is introduced.",Mainframe,First computer used for business applications.
+1956,"IBM 305 RAMAC, the first computer with a hard drive, is introduced.",Storage,First use of magnetic disk storage.
+1958,Jack Kilby develops the first integrated circuit.,Semiconductor,Foundation for modern microprocessors.
+1964,"IBM System/360, the first family of computers with compatible architecture, is released.",Mainframe,Standardized computing architecture.
+1971,"Intel releases the 4004, the first microprocessor.",Microprocessor,Birth of modern microcomputers.
+1975,"Altair 8800, the first personal computer, is introduced.",Microcomputer,Inspired the personal computing revolution.
+1981,"IBM PC is launched, setting a standard for personal computers.",Microcomputer,Popularized personal computing.
+1984,Apple introduces the Macintosh with a graphical user interface.,Microcomputer,Revolutionized user-friendly computing.
+1993,Intel releases the Pentium processor.,Microprocessor,Boosted computing power significantly.
+2006,Intel introduces multi-core processors.,Microprocessor,Enabled parallel processing and better efficiency.
+2010,"Apple launches the iPad, popularizing tablet computing.",Tablet,Redefined mobile computing.
+2023,"NVIDIA introduces the H100, an advanced AI-focused GPU.",GPU,Revolutionized AI and deep learning workloads.
+1961,Fairchild resistor transistor logic,Semiconductor,Early logic family for digital circuits.
+1962,NPN transistor,Semiconductor,Foundation of modern transistor technology.
+1963,Mouse; CMOS patented,Input Device,Introduction of the computer mouse and CMOS technology.
+1966,Integrated circuits: HP 2116A; Apollo Guidance Computer,Integrated Circuits,Early ICs in computing and space exploration.
+1967,Fairchild built first MOS; Englebart applies for mouse patent,Semiconductor,Advancement in MOS technology and UI innovation.
+1969,Data General Nova,Minicomputer,Popularized 16-bit minicomputers.
+1969,Honeywell 316,Minicomputer,Early real-time computing system.
+1970,DEC PDP 11,Minicomputer,Influential 16-bit minicomputer architecture.
+1972,Atari founded; Cray Research founded,Company Founding,Pioneers in gaming and supercomputing.
+1973,Micral first microprocessor PC,Personal Computer,First microprocessor-based personal computer.
+1975,Olivetti P6060; Cray-1,Personal Computer; Supercomputer,Early PC with storage; first Cray supercomputer.
+1976,Tandem Computers,Fault-Tolerant Computing,Pioneered fault-tolerant systems.
+1978,DEC VAX 11,Minicomputer,Powerful 32-bit computing system.
+1979,"Atari 400, 800",Personal Computer,Early home computers with gaming capabilities.
+1980,"Sinclair ZX80, Seagate hard disk drive",Personal Computer; Storage,Affordable home computer; HDD innovation.
+1982,"Commodore 64, Sinclair ZX Spectrum",Personal Computer,Best-selling home computers of their era.
+1983,"Apple Lisa; 3.5"" floppy",Personal Computer; Storage,GUI innovation; standardized floppy disk format.
+1985,PC's Limited (renamed Dell Computer Corporation in 1988); Amiga 1000,Company Founding; Personal Computer,PC revolution and multimedia computing.
+1986,Tandem Nonstop VLX,Fault-Tolerant Computing,High-reliability computing.
+1987,Thinking Machine CM2; Tera Computer Founded,Supercomputer,Advancements in massively parallel processing.
+1988,Dell,Company Founding,Major PC manufacturer established.
+1989,NeXT,Company Founding,Innovative workstations; foundation for macOS.
+1990,ETA10; CD-R,Supercomputer; Storage,Supercomputing advancements; rewritable CDs.
+1991,Apple Switches to PowerPC,Processor Architecture,Transition to RISC-based PowerPC processors.
+1992,HP 95LX; Palmtop PC,Personal Computer,Early handheld computing device.
+1993,Intel PPGA,Processor Packaging,New packaging technology for processors.
+1994,VESA Local Bus,Expansion Bus,Enhanced graphics performance for PCs.
+1995,IBM Deep Blue chess computer,AI Computing,First AI system to defeat a world chess champion.
+1996,USB 1.0,Connectivity,Standardized peripheral connectivity.
+1997,Compaq buys Tandem; CD-RW,Mergers & Acquisitions; Storage,Industry consolidation; rewritable optical media.
+1998,iMac,Personal Computer,Revitalized Apple with innovative design.
+1998,iMac,Personal Computer,Revitalized Apple with innovative design.
+1999,First BlackBerry device (850),Mobile Computing,Pioneered mobile email communication.
+2000,USB 2,Connectivity,Faster peripheral data transfer.
+2003,Arduino,Embedded Systems,Popularized open-source hardware for prototyping.
+2005,Mac Mini; World's first desktop dual-core CPU Athlon 64 X2,Personal Computer; Processor,Compact computing; first desktop dual-core CPU.
+2006,Apple transition to Intel,Processor Architecture,Apple shifts from PowerPC to Intel processors.
+2008,USB 3.0,Connectivity,High-speed peripheral connectivity.
+2010,Apple iPad,Tablet Computing,Popularized modern tablet computing.
+2012,IBM zEnterprise System; Raspberry Pi,Mainframe; Embedded Systems,Advanced mainframes; accessible computing for education.
+2015,HoloLens,Augmented Reality,Advancement in mixed reality technology.
