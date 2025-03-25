@@ -1,0 +1,39 @@
+Year,Event,Category,Impact
+1837,Invention of the Telegraph,Early Foundations,Enabled long-distance communication via electrical signals.
+1876,Alexander Graham Bell invents the Telephone,Early Foundations,Revolutionized real-time voice communication.
+1948,Claude Shannon's Information Theory,Early Foundations,Established mathematical principles for digital communication.
+1958,Bell 101 Modem,Birth of Computer Networking,First device to transmit digital data over telephone lines.
+1961,Packet Switching Concept,Birth of Computer Networking,"Foundation for modern networking, allowing data to be sent in packets."
+1969,ARPANET Goes Live,Birth of Computer Networking,"First operational network using packet switching, predecessor to the Internet."
+1973,Invention of Ethernet,Internet Takes Shape,Enabled high-speed data transfer in local networks (LANs).
+1974,TCP/IP Proposed,Internet Takes Shape,"Standardized communication protocol for global networking, basis for the Internet."
+1983,TCP/IP Becomes Standard,Internet Takes Shape,"ARPANET adopts TCP/IP, creating the foundation for the modern Internet."
+1989,Tim Berners-Lee Invents the World Wide Web,The Web Era,Enabled easy access and sharing of information via browsers and hyperlinks.
+1995,Commercial Internet Boom,The Web Era,"Companies and consumers adopt the Internet for commerce, entertainment, and communication."
+1997,Wi-Fi Standard Introduced,The Web Era,"Wireless networking becomes widespread, reducing reliance on wired connections."
+2007,The Smartphone Era Begins,Modern Networking,Mobile internet usage surges with the introduction of smartphones.
+2010,Cloud Computing Expansion,Modern Networking,"Remote storage and computing services grow, leading to widespread cloud adoption."
+2020,5G Networks Roll Out,Modern Networking,"Ultra-fast, low-latency connectivity enables IoT and next-gen applications."
+1958,SAGE (Semi-Automatic Ground Environment),Birth of Computer Networking,First large-scale computer network for defense and airspace monitoring.
+1961,Packet Switching Concept by Leonard Kleinrock,Birth of Computer Networking,Laid the groundwork for data communication in modern networks.
+1965,First Wide Area Network (WAN),Birth of Computer Networking,Enabled long-distance computer communication.
+1971,Ray Tomlinson sent the first electronic mail (email) over a network.,Birth of the Internet,Introduced a new era of digital communication.
+1974,TCP Proposed by Vinton Cerf and Robert Kahn,Birth of the Internet,"Established reliable, end-to-end communication principles."
+1976,Robert Metcalfe and David Boggs introduced Ethernet technology.,Networking Standards,Enabled high-speed local network communication.
+1977,First long-distance fiber optic network deployed by GTE,Networking Infrastructure,Revolutionized data transmission with high-speed fiber optics.
+1978,First bulletin board system (BBS) created,Early Online Communities,Allowed users to exchange messages and files.
+1980,Ethernet standardized as IEEE 802.3,Networking Standards,Established a global standard for local area networks.
+1981,CSNET (Computer Science Network),Birth of the Internet,Connected academic and research institutions worldwide.
+1983,ARPANET switches to TCP/IP,Birth of the Internet,Paved the way for the modern internet.
+1984,Domain Name System (DNS) Introduced,Networking Standards,Simplified internet navigation with human-readable addresses.
+1989,Tim Berners-Lee proposed the World Wide Web,Birth of the Web,Revolutionized how information is accessed and shared online.
+1991,First Website Launched,Birth of the Web,Marked the beginning of the modern web era.
+1993,Mosaic Browser Released,Web Evolution,Made the web more accessible to general users.
+1995,Commercialization of the Internet (NSFNET decommissioned),Internet Growth,Allowed private companies to expand internet access.
+1998,Google Founded,Web Evolution,Transformed web search and information retrieval.
+2001,3G Networks Launched,Mobile Networking,Enabled mobile broadband and internet access.
+2006,Cloud Computing Popularized (AWS launched),Cloud Computing,Revolutionized data storage and online services.
+2007,iPhone Released,Mobile Networking,Sparked the smartphone revolution and mobile internet boom.
+2015,Edge Computing Gains Popularity,Cloud & Edge Computing,Enabled real-time processing closer to users and devices.
+2018,AI-driven Networking,Networking Evolution,"Introduced intelligent, automated network management."
+2019,5G Networks Begin Deployment,Mobile Networking,"Enhanced speed, connectivity, and IoT capabilities."
